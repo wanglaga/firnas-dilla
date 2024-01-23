@@ -809,8 +809,8 @@ audio {
   display: grid;
 }
 
-.h-72 {
-  height: 18rem;
+.h-96 {
+  height: 24rem;
 }
 
 .h-full {
